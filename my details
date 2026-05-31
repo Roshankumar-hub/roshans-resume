@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTA-8">
+        <title>My Details</title>
+    </head>
+    <body>
+        <ul>
+    <li>Full Name: Roshan Kumar</li><br>
+    <li>Father Name: Suresh Mandal</li><br>
+    <li>Momter name: Rekha Devi</li><br>
+    <li>Age: 16</li>
+</ul>
+<p> Completed 12th and have a good skill HTML coding</p>
+    </body>
+</html>
+
